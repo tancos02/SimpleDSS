@@ -5,4 +5,4 @@ There is a sample dataset in this repo.
 
 GUI using PySimpleGUI.
 
-Using machine learning algorithm as the algorithm for regression.
+Using Logistic Regression algorithm as the algorithm for Classification.
